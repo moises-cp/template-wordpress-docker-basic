@@ -1,0 +1,6 @@
+**/ai1wm-backups
+**/cache
+**/node_modules
+**/wp-config.php
+
+.env
