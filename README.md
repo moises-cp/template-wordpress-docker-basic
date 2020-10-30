@@ -32,10 +32,10 @@
 # Environment Variable
 
 1. Create a `.env` file in the root of this project
-2. Add these to .env file and replace their values
+2. Add these to `.env` file and replace their values
 
 ```
-MYSQL_ROOT_PASSWORD=a-long-unique-random-password
-MYSQL_USER=a-unique-username
-MYSQL_PASSWORD=a-long-unique-random-password
+MYSQL_ROOT_PASSWORD=long-unique-random-password
+MYSQL_USER=unique-username
+MYSQL_PASSWORD=long-unique-random-password
 ```
