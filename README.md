@@ -31,9 +31,9 @@
 
 # Environment Variable
 
-## Create a .env file in the root of this project
+## Create a `.env` file in the root of this project
 
-### Add these to the file and replace their values
+### Add these to .env file and replace their values
 
 ```
 MYSQL_ROOT_PASSWORD=a-long-unique-random-password
