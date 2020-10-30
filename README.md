@@ -96,6 +96,7 @@ docker-compose up -d
 
 1. Create a `.env` file in the root of this project
 2. Add the information mentioned below to `.env` file
+3. Replace their values
 
 ```
 MYSQL_ROOT_PASSWORD=long-unique-random-password
